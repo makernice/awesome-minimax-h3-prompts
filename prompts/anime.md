@@ -246,7 +246,7 @@ Stable identity and anatomy throughout. No outfit changes, added accessories or 
 <a id="p-2095915218652049468"></a>
 ### Anime Girl Sweeps Away an X Profile Page
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2095911140245291008/img/E_i6_Vkis802QnpH.jpg?format=webp&name=small" height="300" alt="Anime Girl Sweeps Away an X Profile Page — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2095915218652049468&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2095911140245291008/img/E_i6_Vkis802QnpH.jpg?format=webp&name=small" height="300" alt="Anime Girl Sweeps Away an X Profile Page — MiniMax H3"></a>
 
 A vertical anime short where a chibi girl pops out of a profile photo and sweeps the page away, laid out as a timed shot-by-shot list.
 
@@ -291,7 +291,7 @@ Soft studio lighting, no harsh shadows. Clean line art, muted pastel colors, sli
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/Just_sharon7/status/2095915218652049468) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2095915218652049468&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/Just_sharon7/status/2095915218652049468) · [↑ Top](#top)
 
 ---
 
@@ -711,7 +711,7 @@ Apply heavy 35mm film grain, scratches, dust, gate weave, cigarette burns, and s
 <a id="p-2084519725405483220"></a>
 ### Chibi Anime Poster Assembles With Bouncy Pop-Ins
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2084519704249487360/pu/img/OybrRc0R5LsxNach.jpg?format=webp&name=small" height="300" alt="Chibi Anime Poster Assembles With Bouncy Pop-Ins — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2084519725405483220&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2084519704249487360/pu/img/OybrRc0R5LsxNach.jpg?format=webp&name=small" height="300" alt="Chibi Anime Poster Assembles With Bouncy Pop-Ins — MiniMax H3"></a>
 
 A static chibi poster is animated into a ten-second layered assembly where border, text, floating islands, a robot, a cat and the hero pop in with parallax, ending on a clean hold of the original layout.
 
@@ -735,7 +735,7 @@ Reveal the Japanese title with a bold elastic impact, followed by the English la
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/LudovicCreator/status/2084519725405483220) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2084519725405483220&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/LudovicCreator/status/2084519725405483220) · [↑ Top](#top)
 
 ---
 

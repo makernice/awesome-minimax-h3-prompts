@@ -6,7 +6,7 @@
 <a id="p-2095976391120494764"></a>
 ### Text Message Mistake Rescue Chaos
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2095973440654372864/img/lGypfQ8uPOEhHI4f.jpg?format=webp&name=small" height="300" alt="Text Message Mistake Rescue Chaos — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2095976391120494764&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2095973440654372864/img/lGypfQ8uPOEhHI4f.jpg?format=webp&name=small" height="300" alt="Text Message Mistake Rescue Chaos — MiniMax H3"></a>
 
 A 15-second action-comedy animation where a person sends a text by mistake and a wildly oversized rescue operation follows, laid out in timed beats.
 
@@ -74,14 +74,14 @@ No logos, no recognizable apps, no copyrighted interfaces, no existing brands, n
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/AllaAisling/status/2095976391120494764) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2095976391120494764&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/AllaAisling/status/2095976391120494764) · [↑ Top](#top)
 
 ---
 
 <a id="p-2095459819184693578"></a>
 ### Antelope Princess Meets a Giant Python
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2095458749872009216/img/SHzyTQn-aiEq-jdq.jpg?format=webp&name=small" height="300" alt="Antelope Princess Meets a Giant Python — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2095459819184693578&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2095458749872009216/img/SHzyTQn-aiEq-jdq.jpg?format=webp&name=small" height="300" alt="Antelope Princess Meets a Giant Python — MiniMax H3"></a>
 
 A 15-second hand-drawn tribal comedy in which a dignified antelope priestess princess discovers an enormous colorful python behind her.
 
@@ -134,7 +134,7 @@ Final look: beautiful mysterious first half → fast colorful comedic second hal
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/ImaStudio_ai/status/2095459819184693578) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2095459819184693578&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/ImaStudio_ai/status/2095459819184693578) · [↑ Top](#top)
 
 ---
 
@@ -1640,7 +1640,7 @@ No grabbing.
 <a id="p-2085137397134561487"></a>
 ### Little Girl Meets a Dinosaur That Sneezes Butterflies
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2085136767452114945/img/pA_6tQrLICTE4Il2.jpg?format=webp&name=small" height="300" alt="Little Girl Meets a Dinosaur That Sneezes Butterflies — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2085137397134561487&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2085136767452114945/img/pA_6tQrLICTE4Il2.jpg?format=webp&name=small" height="300" alt="Little Girl Meets a Dinosaur That Sneezes Butterflies — MiniMax H3"></a>
 
 A girl in a sunny forest meets a friendly dinosaur whose sneeze releases colorful butterflies; the whole prompt is two short sentences run on a local setup.
 
@@ -1662,7 +1662,7 @@ A girl in a sunny forest meets a friendly dinosaur whose sneeze releases colorfu
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/albertgao/status/2085137397134561487) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2085137397134561487&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/albertgao/status/2085137397134561487) · [↑ Top](#top)
 
 ---
 
@@ -1695,7 +1695,7 @@ Create a 15-second cute, funny, educational creative animation video for kids ag
 <a id="p-2084586713205317678"></a>
 ### Rounded 3D Shapes Lesson: Circle, Square, Triangle and Star
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2084586550940356608/img/osLA7vZgwf7_el4w.jpg?format=webp&name=small" height="300" alt="Rounded 3D Shapes Lesson: Circle, Square, Triangle and Star — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2084586713205317678&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2084586550940356608/img/osLA7vZgwf7_el4w.jpg?format=webp&name=small" height="300" alt="Rounded 3D Shapes Lesson: Circle, Square, Triangle and Star — MiniMax H3"></a>
 
 A 15-second children's lesson in soft pastel 3D where every shape follows one fixed pattern of name sound, object, playful action and object name.
 
@@ -1738,14 +1738,14 @@ Requirements: Each shape fully visible before morph, uppercase-clarity level pre
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/Strength04_X/status/2084586713205317678) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2084586713205317678&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/Strength04_X/status/2084586713205317678) · [↑ Top](#top)
 
 ---
 
 <a id="p-2084552480554446929"></a>
 ### Kids Counting Video With Cute 3D Characters From 1 to 4
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2084552134704697344/img/bJo1x6fG-MEEN6Gp.jpg?format=webp&name=small" height="300" alt="Kids Counting Video With Cute 3D Characters From 1 to 4 — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2084552480554446929&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2084552134704697344/img/bJo1x6fG-MEEN6Gp.jpg?format=webp&name=small" height="300" alt="Kids Counting Video With Cute 3D Characters From 1 to 4 — MiniMax H3"></a>
 
 A timecoded 15-second lesson where each number follows the same pattern of sound, objects, playful action and spoken name, led by a bouncing star mascot.
 
@@ -1777,14 +1777,14 @@ Requirements: Keep each number visible before morphing, smooth shape transitions
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/Strength04_X/status/2084552480554446929) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2084552480554446929&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/Strength04_X/status/2084552480554446929) · [↑ Top](#top)
 
 ---
 
 <a id="p-2084551020760433134"></a>
 ### Tiny Mouse Asks a Smug White Cat to Be Friends
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2084550916045492224/img/A_iV8CG4k77rxmKZ.jpg?format=webp&name=small" height="300" alt="Tiny Mouse Asks a Smug White Cat to Be Friends — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2084551020760433134&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2084550916045492224/img/A_iV8CG4k77rxmKZ.jpg?format=webp&name=small" height="300" alt="Tiny Mouse Asks a Smug White Cat to Be Friends — MiniMax H3"></a>
 
 A small mouse and a fluffy cat talk in a living room in an animated-feature look, with the spoken lines and lighting notes written directly into the prompt.
 
@@ -1803,14 +1803,14 @@ A small mouse and a fluffy cat talk in a living room in an animated-feature look
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/MrDasCreates/status/2084551020760433134) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2084551020760433134&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/MrDasCreates/status/2084551020760433134) · [↑ Top](#top)
 
 ---
 
 <a id="p-2084311486277599712"></a>
 ### Motivational Runner Breaks Through Mental Noise
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2084311159742586883/img/LFmPXsijfYhSzW5B.jpg?format=webp&name=small" height="300" alt="Motivational Runner Breaks Through Mental Noise — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2084311486277599712&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2084311159742586883/img/LFmPXsijfYhSzW5B.jpg?format=webp&name=small" height="300" alt="Motivational Runner Breaks Through Mental Noise — MiniMax H3"></a>
 
 A JSON-structured 9:16 stylized 3D animation ad where a hesitant runner shatters floating doubt words and surges forward with cyan energy.
 
@@ -1829,7 +1829,7 @@ A JSON-structured 9:16 stylized 3D animation ad where a hesitant runner shatters
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/sebatheepan/status/2084311486277599712) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2084311486277599712&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/sebatheepan/status/2084311486277599712) · [↑ Top](#top)
 
 ---
 

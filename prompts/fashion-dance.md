@@ -6,7 +6,7 @@
 <a id="p-2109884479619682650"></a>
 ### Couture Gown Runway Fashion Film
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2109884393837973504/img/nSJcWY6kJKRF4XpD.jpg?format=webp&name=small" height="300" alt="Couture Gown Runway Fashion Film — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2109884479619682650&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2109884393837973504/img/nSJcWY6kJKRF4XpD.jpg?format=webp&name=small" height="300" alt="Couture Gown Runway Fashion Film — MiniMax H3"></a>
 
 A 15-second vertical luxury fashion video of a model in a black couture gown, written as timecoded shots.
 
@@ -43,7 +43,7 @@ Maintain consistent facial features, hairstyle, outfit, and body proportions thr
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/DaniaSafvi/status/2109884479619682650) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2109884479619682650&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/DaniaSafvi/status/2109884479619682650) · [↑ Top](#top)
 
 ---
 
@@ -289,7 +289,7 @@ No slow cinematic pacing.
 <a id="p-2105132975641735258"></a>
 ### Backstage Outfit Check Before Showtime
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2105132835384299520/img/JSYpHJkcBp5qwvQg.jpg?format=webp&name=small" height="300" alt="Backstage Outfit Check Before Showtime — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2105132975641735258&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2105132835384299520/img/JSYpHJkcBp5qwvQg.jpg?format=webp&name=small" height="300" alt="Backstage Outfit Check Before Showtime — MiniMax H3"></a>
 
 A glamorous performer with sparkling crystal earrings and a silver sequin look prepares backstage, snacks and then heads to the stage.
 
@@ -316,7 +316,7 @@ Cinematic but casual concert-backstage vlog look, bright even lighting, sparklin
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/Zyrellix/status/2105132975641735258) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2105132975641735258&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/Zyrellix/status/2105132975641735258) · [↑ Top](#top)
 
 ---
 
@@ -542,7 +542,7 @@ One locked heroine from the uploaded image, transformed into a red luxury Korean
 <a id="p-2096833346555023816"></a>
 ### Fashion Film Along a Rugged Coastal Path
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2096831919971524608/img/AKO43bRSPBy9urRt.jpg?format=webp&name=small" height="300" alt="Fashion Film Along a Rugged Coastal Path — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2096833346555023816&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2096831919971524608/img/AKO43bRSPBy9urRt.jpg?format=webp&name=small" height="300" alt="Fashion Film Along a Rugged Coastal Path — MiniMax H3"></a>
 
 A woman in a brown knit sweater walks a seaside path with a green mountain rising from blue water; the prompt describes setting, wardrobe and soft golden light in a single paragraph.
 
@@ -573,7 +573,7 @@ Photorealistic, natural skin and hair, realistic fabric movement, cinematic ligh
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/CaliraVal/status/2096833346555023816) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2096833346555023816&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/CaliraVal/status/2096833346555023816) · [↑ Top](#top)
 
 ---
 
@@ -668,7 +668,7 @@ No jump cuts during transformations. No duplicated character. No distorted hands
 <a id="p-2082932693613043716"></a>
 ### Kpop Group Music Video Edited to the Beat
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2082932476859858944/img/I1Ekax_d3V6ltDCL.jpg?format=webp&name=small" height="300" alt="Kpop Group Music Video Edited to the Beat — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2082932693613043716&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2082932476859858944/img/I1Ekax_d3V6ltDCL.jpg?format=webp&name=small" height="300" alt="Kpop Group Music Video Edited to the Beat — MiniMax H3"></a>
 
 A music-video prompt using an audio track and a group image, with grunge effects, hard cuts under three seconds and typographic references.
 
@@ -687,14 +687,14 @@ Make an MV from Audio1 . Show these Kpop members from Image1 singing and dancing
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/aisearchio/status/2082932693613043716) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2082932693613043716&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/aisearchio/status/2082932693613043716) · [↑ Top](#top)
 
 ---
 
 <a id="p-2082754694250717186"></a>
 ### Acrobatic Breakdance in a Nightclub
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2082754232755642368/img/XbpYqr2h6oX_rKAv.jpg?format=webp&name=small" height="300" alt="Acrobatic Breakdance in a Nightclub — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2082754694250717186&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2082754232755642368/img/XbpYqr2h6oX_rKAv.jpg?format=webp&name=small" height="300" alt="Acrobatic Breakdance in a Nightclub — MiniMax H3"></a>
 
 A 15-second multi-shot music-video clip that uses a 16-frame storyboard image as the visual bible for a male breakdancer in a nightclub.
 
@@ -736,14 +736,14 @@ or children."
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/luisnomad/status/2082754694250717186) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2082754694250717186&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/luisnomad/status/2082754694250717186) · [↑ Top](#top)
 
 ---
 
 <a id="p-2082711476347998615"></a>
 ### Rap Music Video With a Photocopied Zine Look
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2082710677236703232/img/vrShOLVqmbVPIngR.jpg?format=webp&name=small" height="300" alt="Rap Music Video With a Photocopied Zine Look — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2082711476347998615&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2082710677236703232/img/vrShOLVqmbVPIngR.jpg?format=webp&name=small" height="300" alt="Rap Music Video With a Photocopied Zine Look — MiniMax H3"></a>
 
 A fast hard-cut music-video prompt in a grainy dark-pop style with halftone dots, print edges and scan misregistration; the prompt is partial.
 
@@ -771,6 +771,6 @@ Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion pol
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/Just_sharon7/status/2082711476347998615) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2082711476347998615&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/Just_sharon7/status/2082711476347998615) · [↑ Top](#top)
 
 ---

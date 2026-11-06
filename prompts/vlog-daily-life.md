@@ -193,7 +193,7 @@ No real people.
 <a id="p-2095473707611553897"></a>
 ### Pencil Sketch Portrait Drawn From Blank Paper
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2095472666664894464/img/n6Uu6h5rsY1WH0Ti.jpg?format=webp&name=small" height="300" alt="Pencil Sketch Portrait Drawn From Blank Paper — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2095473707611553897&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2095472666664894464/img/n6Uu6h5rsY1WH0Ti.jpg?format=webp&name=small" height="300" alt="Pencil Sketch Portrait Drawn From Blank Paper — MiniMax H3"></a>
 
 Hands draw a portrait from a blank white page with a graphite pencil, starting with pale construction lines, in a stepwise process-style prompt.
 
@@ -225,14 +225,14 @@ Satisfying, calm, close-up process video. Continuous take, no cuts, no extra mot
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/Just_sharon7/status/2095473707611553897) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2095473707611553897&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/Just_sharon7/status/2095473707611553897) · [↑ Top](#top)
 
 ---
 
 <a id="p-2086671141998059973"></a>
 ### Seaside Morning Lifestyle Vlog With a Consistent Character
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2086670800896266240/img/4IImBjQW816qaJPZ.jpg?format=webp&name=small" height="300" alt="Seaside Morning Lifestyle Vlog With a Consistent Character — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2086671141998059973&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2086670800896266240/img/4IImBjQW816qaJPZ.jpg?format=webp&name=small" height="300" alt="Seaside Morning Lifestyle Vlog With a Consistent Character — MiniMax H3"></a>
 
 A vertical 15-second vlog of one young woman at the sea, with her face, hair and outfit locked across every shot.
 
@@ -303,14 +303,14 @@ Ultra-realistic, cinematic travel vlog, natural handheld camera movement, realis
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/ayzalnooor24521/status/2086671141998059973) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2086671141998059973&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/ayzalnooor24521/status/2086671141998059973) · [↑ Top](#top)
 
 ---
 
 <a id="p-2085233880353915217"></a>
 ### Bangkok Street Food Vlog Featuring Pad Thai
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg?format=webp&name=small" height="300" alt="Bangkok Street Food Vlog Featuring Pad Thai — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2085233880353915217&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg?format=webp&name=small" height="300" alt="Bangkok Street Food Vlog Featuring Pad Thai — MiniMax H3"></a>
 
 A young creator walks a daytime market, watches a chef cook Pad Thai and tastes it, with the prompt covering each beat from intro to close-up cooking shots.
 
@@ -329,7 +329,7 @@ A cinematic 15-second ultra-realistic travel vlog following a young female creat
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/nawalsehar/status/2085233880353915217) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2085233880353915217&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/nawalsehar/status/2085233880353915217) · [↑ Top](#top)
 
 ---
 

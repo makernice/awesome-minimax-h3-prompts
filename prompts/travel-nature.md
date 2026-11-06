@@ -6,7 +6,7 @@
 <a id="p-2104438855785136257"></a>
 ### Tropical Beach Adventure at Golden Hour
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2104438260521123840/img/xc254I4qbrovMAHY.jpg?format=webp&name=small" height="300" alt="Tropical Beach Adventure at Golden Hour — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2104438855785136257&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2104438260521123840/img/xc254I4qbrovMAHY.jpg?format=webp&name=small" height="300" alt="Tropical Beach Adventure at Golden Hour — MiniMax H3"></a>
 
 A 15-second tropical beach video with turquoise water, palms and coastal cliffs, featuring a young woman and a character description.
 
@@ -60,14 +60,14 @@ Ultra-realistic, photorealistic, 4K cinematic quality, realistic human anatomy, 
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/CaliraVal/status/2104438855785136257) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2104438855785136257&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/CaliraVal/status/2104438855785136257) · [↑ Top](#top)
 
 ---
 
 <a id="p-2099240686461604159"></a>
 ### Sunbeam Sweeping Across a Quiet Room Floor
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2099240563199676416/img/gr8hjzc2aHe-VEN1.jpg?format=webp&name=small" height="300" alt="Sunbeam Sweeping Across a Quiet Room Floor — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2099240686461604159&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2099240563199676416/img/gr8hjzc2aHe-VEN1.jpg?format=webp&name=small" height="300" alt="Sunbeam Sweeping Across a Quiet Room Floor — MiniMax H3"></a>
 
 A locked-off 15-second room interior where a sunbeam slowly crosses the floor from pale to gold; the prompt is one continuous-motion sentence.
 
@@ -90,14 +90,14 @@ Two clocks again, the crank and the sun. Both written as continuous. "Never jump
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/GlennHasABeard/status/2099240686461604159) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2099240686461604159&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/GlennHasABeard/status/2099240686461604159) · [↑ Top](#top)
 
 ---
 
 <a id="p-2096817125864484954"></a>
 ### Istanbul Travel Vlog From Mosque Domes to Rooftops
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2096816674007863297/img/vgUoXnscXSt2KZyO.jpg?format=webp&name=small" height="300" alt="Istanbul Travel Vlog From Mosque Domes to Rooftops — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2096817125864484954&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2096816674007863297/img/vgUoXnscXSt2KZyO.jpg?format=webp&name=small" height="300" alt="Istanbul Travel Vlog From Mosque Domes to Rooftops — MiniMax H3"></a>
 
 A 15-second travel vlog runs from a whispered ASMR intro through a spinning selfie, a domed mosque interior and a golden-hour rooftop, written as one continuous sequence.
 
@@ -116,14 +116,14 @@ A continuous 4K travel vlog video featuring a young East Asian woman with long d
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/Zyrellix/status/2096817125864484954) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2096817125864484954&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/Zyrellix/status/2096817125864484954) · [↑ Top](#top)
 
 ---
 
 <a id="p-2094490203335352524"></a>
 ### Edinburgh Painted Into Existence in Oil Paint
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2094490069516038145/img/e25xzHvfg5nb-rye.jpg?format=webp&name=small" height="300" alt="Edinburgh Painted Into Existence in Oil Paint — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2094490203335352524&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2094490069516038145/img/e25xzHvfg5nb-rye.jpg?format=webp&name=small" height="300" alt="Edinburgh Painted Into Existence in Oil Paint — MiniMax H3"></a>
 
 A fast macro film where thick wet oil paint flows and builds the city of Edinburgh in one continuous move, with swappable city name and quote slots.
 
@@ -163,14 +163,14 @@ The overall feeling should be luxurious, poetic and visually intense, with conti
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/aimikoda/status/2094490203335352524) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2094490203335352524&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/aimikoda/status/2094490203335352524) · [↑ Top](#top)
 
 ---
 
 <a id="p-2087479235615031569"></a>
 ### Storm Front Rolls Over a Dense Vertical Harbor City at Dusk
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2087479209794928640/pu/img/6p2MDN-oRfwqh0AI.jpg?format=webp&name=small" height="300" alt="Storm Front Rolls Over a Dense Vertical Harbor City at Dusk — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2087479235615031569&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2087479209794928640/pu/img/6p2MDN-oRfwqh0AI.jpg?format=webp&name=small" height="300" alt="Storm Front Rolls Over a Dense Vertical Harbor City at Dusk — MiniMax H3"></a>
 
 An aerial push toward packed towers as windows light up, neon signs flicker and ferries cross a dark harbor under distant rain.
 
@@ -189,14 +189,14 @@ Aerial push toward a dense vertical harbor city as a storm front rolls in at dus
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/LudovicCreator/status/2087479235615031569) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2087479235615031569&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/LudovicCreator/status/2087479235615031569) · [↑ Top](#top)
 
 ---
 
 <a id="p-2082700637444452380"></a>
 ### Cliff-Edge Camera Descent to a Stormy Ocean
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2082700212683022336/img/Be5dh9dZtKe1bPos.jpg?format=webp&name=small" height="300" alt="Cliff-Edge Camera Descent to a Stormy Ocean — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2082700637444452380&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2082700212683022336/img/Be5dh9dZtKe1bPos.jpg?format=webp&name=small" height="300" alt="Cliff-Edge Camera Descent to a Stormy Ocean — MiniMax H3"></a>
 
 A woman stands on a windy cliff and the camera tilts down over the edge toward crashing surf, ending on an overhead shot of the lone figure.
 
@@ -215,6 +215,6 @@ The shot opens tight on a beautiful woman face, wind tearing at her coat as she 
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/umesh_ai/status/2082700637444452380) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2082700637444452380&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/umesh_ai/status/2082700637444452380) · [↑ Top](#top)
 
 ---

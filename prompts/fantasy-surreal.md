@@ -6,7 +6,7 @@
 <a id="p-2112325403582832865"></a>
 ### Ink Drop Turns Into a Small Ghost
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2112324067386609664/img/40vJM4RZRqRZXlwa.jpg?format=webp&name=small" height="300" alt="Ink Drop Turns Into a Small Ghost — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2112325403582832865&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2112324067386609664/img/40vJM4RZRqRZXlwa.jpg?format=webp&name=small" height="300" alt="Ink Drop Turns Into a Small Ghost — MiniMax H3"></a>
 
 A locked-camera 15-second shot where a drop of white ink sinking in water stretches into a small ghost, from a one-line prompt.
 
@@ -29,14 +29,14 @@ The first take only hinted at a ghost. Now the ink is thick and white in dark wa
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/GlennHasABeard/status/2112325403582832865) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2112325403582832865&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/GlennHasABeard/status/2112325403582832865) · [↑ Top](#top)
 
 ---
 
 <a id="p-2107473740023951434"></a>
 ### Wax Seal With a Koi Pond Inside
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2107473713046212609/img/2L5V8OTZ0oSf6Mz7.jpg?format=webp&name=small" height="300" alt="Wax Seal With a Koi Pond Inside — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2107473740023951434&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2107473713046212609/img/2L5V8OTZ0oSf6Mz7.jpg?format=webp&name=small" height="300" alt="Wax Seal With a Koi Pond Inside — MiniMax H3"></a>
 
 A locked macro shot of a letter seal whose impression becomes a tiny pond with an orange koi, driven by a single descriptive line plus camera notes.
 
@@ -59,14 +59,14 @@ The stamp gets a hold time. Two seconds pressed is what makes the lift feel earn
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/GlennHasABeard/status/2107473740023951434) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2107473740023951434&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/GlennHasABeard/status/2107473740023951434) · [↑ Top](#top)
 
 ---
 
 <a id="p-2106981798001680517"></a>
 ### Woman Pets a Glowing White Lion in a Park
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2106981688698183680/img/8tng9LGYLG-WGCGr.jpg?format=webp&name=small" height="300" alt="Woman Pets a Glowing White Lion in a Park — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2106981798001680517&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2106981688698183680/img/8tng9LGYLG-WGCGr.jpg?format=webp&name=small" height="300" alt="Woman Pets a Glowing White Lion in a Park — MiniMax H3"></a>
 
 A short cinematic clip of a woman in a brown jacket approaching and gently stroking a giant glowing white lion on a park bench at dusk.
 
@@ -85,14 +85,14 @@ A Cinematic video of a young woman wearing a brown jacket walking in a peaceful 
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/laviniavelle/status/2106981798001680517) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2106981798001680517&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/laviniavelle/status/2106981798001680517) · [↑ Top](#top)
 
 ---
 
 <a id="p-2101221316229558505"></a>
 ### Glass Skyscraper Assembles Itself Under Holograms
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2101221055159214080/img/snFsseKnh1oV9-Fe.jpg?format=webp&name=small" height="300" alt="Glass Skyscraper Assembles Itself Under Holograms — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2101221316229558505&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2101221055159214080/img/snFsseKnh1oV9-Fe.jpg?format=webp&name=small" height="300" alt="Glass Skyscraper Assembles Itself Under Holograms — MiniMax H3"></a>
 
 A drone shot looks down on an empty lot as a glass tower builds itself between yellow cranes with cyan hologram overlays, then pulls back at sunset.
 
@@ -137,14 +137,14 @@ Avoid: cuts, shaky camera, cartoon look, people close-up, logos, extra towers ap
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/Zyrellix/status/2101221316229558505) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2101221316229558505&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/Zyrellix/status/2101221316229558505) · [↑ Top](#top)
 
 ---
 
 <a id="p-2100540300800254320"></a>
 ### Reactor Core Rebuilds Itself Into a Giant Word
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2100540267363246080/pu/img/StGwLxMxZjXkXUKI.jpg?format=webp&name=small" height="300" alt="Reactor Core Rebuilds Itself Into a Giant Word — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2100540300800254320&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2100540267363246080/pu/img/StGwLxMxZjXkXUKI.jpg?format=webp&name=small" height="300" alt="Reactor Core Rebuilds Itself Into a Giant Word — MiniMax H3"></a>
 
 Machine parts torn from an unstable energy reactor lock together into huge industrial letters that spell a single title word, a mechanical title VFX piece.
 
@@ -169,7 +169,7 @@ High-end sci-fi Hollywood title sequence beginning deep inside a futuristic ener
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/CharaspowerAI/status/2100540300800254320) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2100540300800254320&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/CharaspowerAI/status/2100540300800254320) · [↑ Top](#top)
 
 ---
 
@@ -238,7 +238,7 @@ non_diegetic_music: N/A. The music is diegetic, originating from her headphones 
 <a id="p-2097133820382425131"></a>
 ### Gothic Fantasy Woman Inside a Living Paper Collage
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2097025649777209344/img/ZBKWlkhquK3L8UHw.jpg?format=webp&name=small" height="300" alt="Gothic Fantasy Woman Inside a Living Paper Collage — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2097133820382425131&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2097025649777209344/img/ZBKWlkhquK3L8UHw.jpg?format=webp&name=small" height="300" alt="Gothic Fantasy Woman Inside a Living Paper Collage — MiniMax H3"></a>
 
 A pale woman in a patchwork Victorian coat stands in a handmade collage world in one fluid take with two soft internal transitions.
 
@@ -273,7 +273,7 @@ Maintain the same face, hairstyle, clothing and environment throughout. No anima
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/bmx_ai13/status/2097133820382425131) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2097133820382425131&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/bmx_ai13/status/2097133820382425131) · [↑ Top](#top)
 
 ---
 
@@ -318,7 +318,7 @@ End with the fully completed character, cleanly revealed and clearly matching th
 <a id="p-2095527374444003437"></a>
 ### Titanium Macro Hollywood-Style Title Sequence
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2095527353162117121/pu/img/O1IOIp5XKtDdimEF.jpg?format=webp&name=small" height="300" alt="Titanium Macro Hollywood-Style Title Sequence — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2095527374444003437&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2095527353162117121/pu/img/O1IOIp5XKtDdimEF.jpg?format=webp&name=small" height="300" alt="Titanium Macro Hollywood-Style Title Sequence — MiniMax H3"></a>
 
 A title sequence opening on a smooth monolithic titanium surface in darkness, described as precise motion-design direction without keyframes.
 
@@ -343,7 +343,7 @@ Ultra-cinematic Hollywood title sequence, opening on an extreme macro shot of a 
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/CharaspowerAI/status/2095527374444003437) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2095527374444003437&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/CharaspowerAI/status/2095527374444003437) · [↑ Top](#top)
 
 ---
 
@@ -405,7 +405,7 @@ No second human/fairy, duplicates, face drift, hairstyle/color/costume changes, 
 <a id="p-2095141166962311555"></a>
 ### Maker Rebuilds a Pictured Subject From Scratch
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2095140278659141634/img/A-v4vcg-NrgxuDFf.jpg?format=webp&name=small" height="300" alt="Maker Rebuilds a Pictured Subject From Scratch — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2095141166962311555&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2095140278659141634/img/A-v4vcg-NrgxuDFf.jpg?format=webp&name=small" height="300" alt="Maker Rebuilds a Pictured Subject From Scratch — MiniMax H3"></a>
 
 A reference-image template showing one maker's hands rebuilding the pictured subject on a clean workbench in an accelerated timelapse with jump cuts.
 
@@ -424,14 +424,14 @@ A cinematic creation film follows one maker reconstructing the main subject show
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/aimikoda/status/2095141166962311555) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2095141166962311555&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/aimikoda/status/2095141166962311555) · [↑ Top](#top)
 
 ---
 
 <a id="p-2093715484910731416"></a>
 ### Speed-Themed Metal Title Sequence
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2093715460093038592/pu/img/-5SgcoQeIqm0ZPcK.jpg?format=webp&name=small" height="300" alt="Speed-Themed Metal Title Sequence — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2093715484910731416&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2093715460093038592/pu/img/-5SgcoQeIqm0ZPcK.jpg?format=webp&name=small" height="300" alt="Speed-Themed Metal Title Sequence — MiniMax H3"></a>
 
 A 15-second title sequence that opens on polished metal racing through darkness, with metallic parts streaking past the camera like projectiles.
 
@@ -450,14 +450,14 @@ High-octane cinematic title sequence built entirely around speed: begin with an 
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/CharaspowerAI/status/2093715484910731416) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2093715484910731416&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/CharaspowerAI/status/2093715484910731416) · [↑ Top](#top)
 
 ---
 
 <a id="p-2089291191447605442"></a>
 ### Fire Vortex Forges a Blazing Title Word
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2089291158501425152/pu/img/Z3yPIVkpAJI_4eFN.jpg?format=webp&name=small" height="300" alt="Fire Vortex Forges a Blazing Title Word — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2089291191447605442&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2089291158501425152/pu/img/Z3yPIVkpAJI_4eFN.jpg?format=webp&name=small" height="300" alt="Fire Vortex Forges a Blazing Title Word — MiniMax H3"></a>
 
 A wide shot of burning embers turning into a giant rotating fire vortex that shapes a title word out of flames, then bursts apart.
 
@@ -476,14 +476,14 @@ Ultra cinematic wide shot: A vast field of burning embers stretches into darknes
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/CharaspowerAI/status/2089291191447605442) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2089291191447605442&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/CharaspowerAI/status/2089291191447605442) · [↑ Top](#top)
 
 ---
 
 <a id="p-2088928805561708915"></a>
 ### Mountain Collapses and Rebuilds Into a Stone Title Word
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2088928781385752576/pu/img/Wi60N31thK5R5Yue.jpg?format=webp&name=small" height="300" alt="Mountain Collapses and Rebuilds Into a Stone Title Word — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2088928805561708915&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2088928781385752576/pu/img/Wi60N31thK5R5Yue.jpg?format=webp&name=small" height="300" alt="Mountain Collapses and Rebuilds Into a Stone Title Word — MiniMax H3"></a>
 
 A cliff crumbles into a canyon and the rubble forms a carved title word before crumbling into dust, in an epic title-design style.
 
@@ -502,14 +502,14 @@ Ultra cinematic title sequence: A gigantic mountain cliff begins collapsing into
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/CharaspowerAI/status/2088928805561708915) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2088928805561708915&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/CharaspowerAI/status/2088928805561708915) · [↑ Top](#top)
 
 ---
 
 <a id="p-2087839534155211198"></a>
 ### Astronaut Sprints Down a Spaceship Corridor to a Planet Window
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2087838437130850304/img/aZePdfHSEF8dgI3c.jpg?format=webp&name=small" height="300" alt="Astronaut Sprints Down a Spaceship Corridor to a Planet Window — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2087839534155211198&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2087838437130850304/img/aZePdfHSEF8dgI3c.jpg?format=webp&name=small" height="300" alt="Astronaut Sprints Down a Spaceship Corridor to a Planet Window — MiniMax H3"></a>
 
 A woman in a dark spacesuit runs through a corridor lit by red alarms, collapses at a panoramic window and watches a planet react outside.
 
@@ -528,14 +528,14 @@ Cinematic 15-second sequence: A young athletic woman with short dark hair in a f
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/ItsCosmicAnts/status/2087839534155211198) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2087839534155211198&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/ItsCosmicAnts/status/2087839534155211198) · [↑ Top](#top)
 
 ---
 
 <a id="p-2087131708223046088"></a>
 ### Passersby Burst Into Cream After Vehicle Impacts on a Manhattan Street
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2087131362436567041/img/yb9D5u7vmx8bMQ6W.jpg?format=webp&name=small" height="300" alt="Passersby Burst Into Cream After Vehicle Impacts on a Manhattan Street — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2087131708223046088&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2087131362436567041/img/yb9D5u7vmx8bMQ6W.jpg?format=webp&name=small" height="300" alt="Passersby Burst Into Cream After Vehicle Impacts on a Manhattan Street — MiniMax H3"></a>
 
 Shaky first-person phone footage in which a new person and vehicle appear every five seconds, with each person dissolving into fragments only after impact.
 
@@ -560,14 +560,14 @@ Throughout: constant heavy smartphone-style camera shake and jitter, natural mot
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/sadlemonjuice/status/2087131708223046088) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2087131708223046088&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/sadlemonjuice/status/2087131708223046088) · [↑ Top](#top)
 
 ---
 
 <a id="p-2087116928473006428"></a>
 ### Dark Sci-Fi Motion Poster Builds Itself in Layers
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2087116911293136896/pu/img/yLE-1A_TUrSZIO0P.jpg?format=webp&name=small" height="300" alt="Dark Sci-Fi Motion Poster Builds Itself in Layers — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2087116928473006428&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2087116911293136896/pu/img/yLE-1A_TUrSZIO0P.jpg?format=webp&name=small" height="300" alt="Dark Sci-Fi Motion Poster Builds Itself in Layers — MiniMax H3"></a>
 
 A vertical 10-second poster animation that starts in near darkness and adds interface marks, storm clouds and a spacecraft in stages while preserving the layout.
 
@@ -586,14 +586,14 @@ Animate the source artwork as a 10-second dark cinematic sci-fi motion poster wh
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/LudovicCreator/status/2087116928473006428) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2087116928473006428&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/LudovicCreator/status/2087116928473006428) · [↑ Top](#top)
 
 ---
 
 <a id="p-2086833428713116099"></a>
 ### Dragon Attacks a Medieval Warship Fleet at Sea
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2086833390024822785/img/YvfxvoKchWc-NjDy.jpg?format=webp&name=small" height="300" alt="Dragon Attacks a Medieval Warship Fleet at Sea — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2086833428713116099&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2086833390024822785/img/YvfxvoKchWc-NjDy.jpg?format=webp&name=small" height="300" alt="Dragon Attacks a Medieval Warship Fleet at Sea — MiniMax H3"></a>
 
 A hyper-realistic 15-second battle where a dragon descends on a fleet of wooden warships in rough northern waters, with sails, braziers and armored soldiers described.
 
@@ -626,14 +626,14 @@ Style: hyper-realistic, cinematic, intense, fast-paced, suspenseful, fantasy atm
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/Diplomeme/status/2086833428713116099) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2086833428713116099&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/Diplomeme/status/2086833428713116099) · [↑ Top](#top)
 
 ---
 
 <a id="p-2085835546572800047"></a>
 ### Arcade Camera Dives Into a Pixel-Art Eight-Player Fighting Game
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2085834694386696193/img/MYVEsv99pFZY5i14.jpg?format=webp&name=small" height="300" alt="Arcade Camera Dives Into a Pixel-Art Eight-Player Fighting Game — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2085835546572800047&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2085834694386696193/img/MYVEsv99pFZY5i14.jpg?format=webp&name=small" height="300" alt="Arcade Camera Dives Into a Pixel-Art Eight-Player Fighting Game — MiniMax H3"></a>
 
 A found-footage shot behind an arcade player rushes into the CRT screen, resolves into 16-bit pixel art and grows into a chaotic multi-fighter match, all in one take.
 
@@ -652,7 +652,7 @@ A handheld found-footage shot from behind a person playing an authentic Street F
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/cocktailpeanut/status/2085835546572800047) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2085835546572800047&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/cocktailpeanut/status/2085835546572800047) · [↑ Top](#top)
 
 ---
 
@@ -737,7 +737,7 @@ A vertical retro-futurist gouache-style animation of a bored lunar librarian who
 <a id="p-2085420070952649179"></a>
 ### Prehistoric Cave People Hold a Concert Among Dinosaurs
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg?format=webp&name=small" height="300" alt="Prehistoric Cave People Hold a Concert Among Dinosaurs — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2085420070952649179&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg?format=webp&name=small" height="300" alt="Prehistoric Cave People Hold a Concert Among Dinosaurs — MiniMax H3"></a>
 
 A very short prompt in Turkish asks for a multi-shot, documentary-style concert of cave people singing while dinosaurs roam around the crowd.
 
@@ -756,14 +756,14 @@ Tarih öncesi çağlarda geçen bir konser sahnesi. Sahnede mağara adamları va
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/ozansihay/status/2085420070952649179) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2085420070952649179&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/ozansihay/status/2085420070952649179) · [↑ Top](#top)
 
 ---
 
 <a id="p-2084637679254376793"></a>
 ### Glitch Club Dancer in a Folding Timeline World
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2084634255381147648/img/oUZLnMebYbX-BFPn.jpg?format=webp&name=small" height="300" alt="Glitch Club Dancer in a Folding Timeline World — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2084637679254376793&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2084634255381147648/img/oUZLnMebYbX-BFPn.jpg?format=webp&name=small" height="300" alt="Glitch Club Dancer in a Folding Timeline World — MiniMax H3"></a>
 
 A single dancer moves through a beat-driven world where each kick compresses space and snares duplicate motion, written as labelled sections for concept, character, world logic, visuals, motion and restrictions.
 
@@ -798,14 +798,14 @@ No character changes, extra people, random text, subtitles, logos, outfit change
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/lepadphone/status/2084637679254376793) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2084637679254376793&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/lepadphone/status/2084637679254376793) · [↑ Top](#top)
 
 ---
 
 <a id="p-2084075915706052621"></a>
 ### Washing Machine Drum Turns Into a Stormy Ocean
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2084075853206654977/img/Fs01Vuk-jtjD81XJ.jpg?format=webp&name=small" height="300" alt="Washing Machine Drum Turns Into a Stormy Ocean — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2084075915706052621&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2084075853206654977/img/Fs01Vuk-jtjD81XJ.jpg?format=webp&name=small" height="300" alt="Washing Machine Drum Turns Into a Stormy Ocean — MiniMax H3"></a>
 
 A numbered-block prompt for a 15-second surreal laundromat scene where a washer holds a tiny storm and lighthouse, with timed beats and audio cues.
 
@@ -849,14 +849,14 @@ No people, text, subtitles, logos, watermarks, monsters, or cartoon styling.
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/opener_ai/status/2084075915706052621) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2084075915706052621&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/opener_ai/status/2084075915706052621) · [↑ Top](#top)
 
 ---
 
 <a id="p-2083628852165672988"></a>
 ### Sci-Fi Poster Assembles Itself Into Motion
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg?format=webp&name=small" height="300" alt="Sci-Fi Poster Assembles Itself Into Motion — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2083628852165672988&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg?format=webp&name=small" height="300" alt="Sci-Fi Poster Assembles Itself Into Motion — MiniMax H3"></a>
 
 A still sci-fi poster is animated into a ten-second reveal where the frame, typography, station and cloaked traveler build in sequence with parallax and typing sounds, while keeping the original layout intact.
 
@@ -876,14 +876,14 @@ Animate the source artwork as a 10-second premium sci-fi motion poster while pre
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/LudovicCreator/status/2083628852165672988) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2083628852165672988&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/LudovicCreator/status/2083628852165672988) · [↑ Top](#top)
 
 ---
 
 <a id="p-2082704405619679353"></a>
 ### Dragon Head Built From Twigs in Stop Motion
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2082704338057850880/img/Y5a_bqAs8WI_V2w7.jpg?format=webp&name=small" height="300" alt="Dragon Head Built From Twigs in Stop Motion — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2082704405619679353&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2082704338057850880/img/Y5a_bqAs8WI_V2w7.jpg?format=webp&name=small" height="300" alt="Dragon Head Built From Twigs in Stop Motion — MiniMax H3"></a>
 
 A top-down stop-motion clip in which four hands assemble a dragon head from twigs, bark, moss and leaves on a white surface.
 
@@ -907,6 +907,6 @@ Final shot: the completed dragon head sculpture sits alone on the white backgrou
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/Maercihh/status/2082704405619679353) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2082704405619679353&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/Maercihh/status/2082704405619679353) · [↑ Top](#top)
 
 ---

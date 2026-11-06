@@ -66,7 +66,7 @@ Natural wind with individual hair strands moving independently; believable hair 
 <a id="p-2109791105671700721"></a>
 ### Diner Worker Walks Home at Night
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2109789692933660673/img/4_J0fX70fRU1XZe5.jpg?format=webp&name=small" height="300" alt="Diner Worker Walks Home at Night — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2109791105671700721&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2109789692933660673/img/4_J0fX70fRU1XZe5.jpg?format=webp&name=small" height="300" alt="Diner Worker Walks Home at Night — MiniMax H3"></a>
 
 A story-style prose prompt with no camera terms, following a waitress walking home along a quiet street, using a reference picture.
 
@@ -105,14 +105,14 @@ A sudden noise behind her made Lucy stop in her tracks. She spun around, eyes wi
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/EndFolding79421/status/2109791105671700721) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2109791105671700721&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/EndFolding79421/status/2109791105671700721) · [↑ Top](#top)
 
 ---
 
 <a id="p-2108851182244606445"></a>
 ### Raccoon and Monkey Chip Chaos in a Car
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2108850826395697152/img/7DQVQxuGIVGsu-pv.jpg?format=webp&name=small" height="300" alt="Raccoon and Monkey Chip Chaos in a Car — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2108851182244606445&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2108850826395697152/img/7DQVQxuGIVGsu-pv.jpg?format=webp&name=small" height="300" alt="Raccoon and Monkey Chip Chaos in a Car — MiniMax H3"></a>
 
 A comedic back-seat scene with a woman sharing chips with a raccoon and a capuchin monkey, ending in flying snacks.
 
@@ -131,7 +131,7 @@ A cinematic video inside the back seat of a moving car with beige leather interi
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/laviniavelle/status/2108851182244606445) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2108851182244606445&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/laviniavelle/status/2108851182244606445) · [↑ Top](#top)
 
 ---
 
@@ -415,7 +415,7 @@ p.s. I used an audio sample of me talking in a 'scary' voice for the reference!
 <a id="p-2097919526432370965"></a>
 ### Paris Market Morning in 1906 With Three Women
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2097919095299805184/img/7Adz3S_su_kk7G4v.jpg?format=webp&name=small" height="300" alt="Paris Market Morning in 1906 With Three Women — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2097919526432370965&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2097919095299805184/img/7Adz3S_su_kk7G4v.jpg?format=webp&name=small" height="300" alt="Paris Market Morning in 1906 With Three Women — MiniMax H3"></a>
 
 Three women in early-1900s dress move through an ordinary Paris market morning; the prompt separates subjects, location and period details as labeled fields.
 
@@ -461,14 +461,14 @@ Goal: Create the feeling of a rare, authentic 1906 family film–period clothing
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/ZephyraLeigh/status/2097919526432370965) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2097919526432370965&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/ZephyraLeigh/status/2097919526432370965) · [↑ Top](#top)
 
 ---
 
 <a id="p-2087208466264076759"></a>
 ### Stand-Up Comedian Jokes About Artificial Intelligence
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2087208423750500352/img/uhWU0Zq2TZX7GkM9.jpg?format=webp&name=small" height="300" alt="Stand-Up Comedian Jokes About Artificial Intelligence — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2087208466264076759&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2087208423750500352/img/uhWU0Zq2TZX7GkM9.jpg?format=webp&name=small" height="300" alt="Stand-Up Comedian Jokes About Artificial Intelligence — MiniMax H3"></a>
 
 A live comedy club special in five timed shots, with scripted jokes delivered line by line, audience laughter placed after each punchline, and rules against cutting mid-punchline.
 
@@ -528,14 +528,14 @@ Production details: Keep the same comedian, outfit, microphone, stage and audien
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/azed_ai/status/2087208466264076759) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2087208466264076759&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/azed_ai/status/2087208466264076759) · [↑ Top](#top)
 
 ---
 
 <a id="p-2087102541146522089"></a>
 ### Street Photographer Captures an Elderly Man and His Dog
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2087102214578053120/img/SZoqqN_Y8_HY-SNr.jpg?format=webp&name=small" height="300" alt="Street Photographer Captures an Elderly Man and His Dog — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2087102541146522089&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2087102214578053120/img/SZoqqN_Y8_HY-SNr.jpg?format=webp&name=small" height="300" alt="Street Photographer Captures an Elderly Man and His Dog — MiniMax H3"></a>
 
 A woman photographs a man and his small dog outside a cafe, shows the shot to the viewer and says one line before walking on, in a photorealistic style.
 
@@ -554,14 +554,14 @@ A young Western female street photographer walks through a lively downtown stree
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/aiwithaly/status/2087102541146522089) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2087102541146522089&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/aiwithaly/status/2087102541146522089) · [↑ Top](#top)
 
 ---
 
 <a id="p-2085584972778229978"></a>
 ### Strength Competition Where Calm Timing Beats Brute Power
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2085469740915728384/img/myZ_a-EebX335RAC.jpg?format=webp&name=small" height="300" alt="Strength Competition Where Calm Timing Beats Brute Power — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2085584972778229978&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2085469740915728384/img/myZ_a-EebX335RAC.jpg?format=webp&name=small" height="300" alt="Strength Competition Where Calm Timing Beats Brute Power — MiniMax H3"></a>
 
 A timecoded arena story that contrasts repeated failed attempts with one calm success, shot to look like a broadcast crew's live event footage.
 
@@ -598,14 +598,14 @@ Do not include text, captions, logos, watermarks, brand names, duplicated specta
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/bmx_ai13/status/2085584972778229978) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2085584972778229978&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/bmx_ai13/status/2085584972778229978) · [↑ Top](#top)
 
 ---
 
 <a id="p-2085198361989460476"></a>
 ### Classic Cartoon Rabbit and Duck Help Real Detectives at a Crime Scene
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2085196908558258176/img/oP_Pu4XBvoGI2-hk.jpg?format=webp&name=small" height="300" alt="Classic Cartoon Rabbit and Duck Help Real Detectives at a Crime Scene — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2085198361989460476&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2085196908558258176/img/oP_Pu4XBvoGI2-hk.jpg?format=webp&name=small" height="300" alt="Classic Cartoon Rabbit and Duck Help Real Detectives at a Crime Scene — MiniMax H3"></a>
 
 Two 2D cartoon characters work beside live-action detectives at a nighttime crime scene, with the dialogue written out in full so the speech stays intelligible.
 
@@ -624,14 +624,14 @@ Two 2D cartoon characters work beside live-action detectives at a nighttime crim
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/cocktailpeanut/status/2085198361989460476) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2085198361989460476&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/cocktailpeanut/status/2085198361989460476) · [↑ Top](#top)
 
 ---
 
 <a id="p-2084619631742837115"></a>
 ### Mockumentary Break Room Argument Between Two Coworkers
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2084619507125854208/img/j0WYZ4UpWMtWHuzb.jpg?format=webp&name=small" height="300" alt="Mockumentary Break Room Argument Between Two Coworkers — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2084619631742837115&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2084619507125854208/img/j0WYZ4UpWMtWHuzb.jpg?format=webp&name=small" height="300" alt="Mockumentary Break Room Argument Between Two Coworkers — MiniMax H3"></a>
 
 Two coworkers argue across a small break room table in one continuous handheld setup with a sudden snap zoom to whoever reacts, in a mockumentary sitcom style.
 
@@ -672,14 +672,14 @@ music, ambient room tone only.
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/Arminn_Ai/status/2084619631742837115) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2084619631742837115&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/Arminn_Ai/status/2084619631742837115) · [↑ Top](#top)
 
 ---
 
 <a id="p-2084387316286595436"></a>
 ### Office Mockumentary Conference Room Gag
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2084387230844346368/img/3q3PrcBYVZsGJ3lW.jpg?format=webp&name=small" height="300" alt="Office Mockumentary Conference Room Gag — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2084387316286595436&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2084387230844346368/img/3q3PrcBYVZsGJ3lW.jpg?format=webp&name=small" height="300" alt="Office Mockumentary Conference Room Gag — MiniMax H3"></a>
 
 A documentary-style comedy sketch in an office conference room with handheld reframes, quick zooms and an overexcited manager at the whiteboard.
 
@@ -736,14 +736,14 @@ at the lens.
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/Arminn_Ai/status/2084387316286595436) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2084387316286595436&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/Arminn_Ai/status/2084387316286595436) · [↑ Top](#top)
 
 ---
 
 <a id="p-2084141213574459646"></a>
 ### Woman Discovers a Secret Rooftop Garden
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2084141065884557312/img/a_GhdIGmwX6YHxrc.jpg?format=webp&name=small" height="300" alt="Woman Discovers a Secret Rooftop Garden — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2084141213574459646&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2084141065884557312/img/a_GhdIGmwX6YHxrc.jpg?format=webp&name=small" height="300" alt="Woman Discovers a Secret Rooftop Garden — MiniMax H3"></a>
 
 A 15-second ultra-realistic story of a woman opening an old door to a hidden garden filled with flowers, butterflies and birds in morning light.
 
@@ -762,14 +762,14 @@ A cinematic 15-second ultra-realistic story following a young woman who discover
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/aiwithaly/status/2084141213574459646) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2084141213574459646&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/aiwithaly/status/2084141213574459646) · [↑ Top](#top)
 
 ---
 
 <a id="p-2083909535593644291"></a>
 ### Quote Appears as an Evolving Text Animation
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg?format=webp&name=small" height="300" alt="Quote Appears as an Evolving Text Animation — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2083909535593644291&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg?format=webp&name=small" height="300" alt="Quote Appears as an Evolving Text Animation — MiniMax H3"></a>
 
 A 15-second text-animation prompt where each phrase of a quote changes the design, atmosphere and movement of the scene.
 
@@ -788,14 +788,14 @@ Create a 15-second cinematic text-animation video built around the quote:  “Ev
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/umesh_ai/status/2083909535593644291) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2083909535593644291&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/umesh_ai/status/2083909535593644291) · [↑ Top](#top)
 
 ---
 
 <a id="p-2082561712914567207"></a>
 ### Handheld Concert Documentary of a Young Singer
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2082561639182921728/img/4NWux38pSVfMz_F9.jpg?format=webp&name=small" height="300" alt="Handheld Concert Documentary of a Young Singer — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2082561712914567207&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2082561639182921728/img/4NWux38pSVfMz_F9.jpg?format=webp&name=small" height="300" alt="Handheld Concert Documentary of a Young Singer — MiniMax H3"></a>
 
 A 15-second concert clip in a gritty documentary style, with a global subject block and timecoded shots of a confident young performer.
 
@@ -830,6 +830,6 @@ Style: Real Concert Documentary Film, handheld camera energy, practical stage li
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/BrentLynch/status/2082561712914567207) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2082561712914567207&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/BrentLynch/status/2082561712914567207) · [↑ Top](#top)
 
 ---

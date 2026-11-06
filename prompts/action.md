@@ -6,7 +6,7 @@
 <a id="p-2084338573210157293"></a>
 ### First-Person Shooter Push Through an Arctic Base
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2084338547926970368/pu/img/vo4w2TVz5to07gcI.jpg?format=webp&name=small" height="300" alt="First-Person Shooter Push Through an Arctic Base — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2084338573210157293&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2084338547926970368/pu/img/vo4w2TVz5to07gcI.jpg?format=webp&name=small" height="300" alt="First-Person Shooter Push Through an Arctic Base — MiniMax H3"></a>
 
 A first-person gameplay shot advancing through a frozen military outpost, scanning for threats and firing short bursts, structured as separate camera, lighting and camera-movement paragraphs.
 
@@ -30,14 +30,14 @@ Camera movement: Natural player-controlled movement with subtle handheld sway wh
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/LudovicCreator/status/2084338573210157293) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2084338573210157293&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/LudovicCreator/status/2084338573210157293) · [↑ Top](#top)
 
 ---
 
 <a id="p-2082731549707927857"></a>
 ### Wingsuit Pilot Threads a Canyon at Sunrise
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2082731250360475648/img/uykEin4dHtvht4DH.jpg?format=webp&name=small" height="300" alt="Wingsuit Pilot Threads a Canyon at Sunrise — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2082731549707927857&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2082731250360475648/img/uykEin4dHtvht4DH.jpg?format=webp&name=small" height="300" alt="Wingsuit Pilot Threads a Canyon at Sunrise — MiniMax H3"></a>
 
 A world-build style prompt with a look bible and hero lock for a wingsuit pilot flying through stone monuments in sunrise wind.
 
@@ -56,6 +56,6 @@ CANYON WINGSUIT THREAD WORLD BUILD A wingsuit pilot threading an impossible cany
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/sebatheepan/status/2082731549707927857) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2082731549707927857&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/sebatheepan/status/2082731549707927857) · [↑ Top](#top)
 
 ---

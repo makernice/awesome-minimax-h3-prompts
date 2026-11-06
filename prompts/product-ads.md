@@ -6,7 +6,7 @@
 <a id="p-2105895582275657852"></a>
 ### Romantic Evening Perfume Commercial
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2105894791510990848/img/tBo1yGd68xf1IX1-.jpg?format=webp&name=small" height="300" alt="Romantic Evening Perfume Commercial — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2105895582275657852&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2105894791510990848/img/tBo1yGd68xf1IX1-.jpg?format=webp&name=small" height="300" alt="Romantic Evening Perfume Commercial — MiniMax H3"></a>
 
 A multi-scene luxury fragrance spot that begins with a brunette woman in a white evening dress at a mirror, set in a romantic evening mood.
 
@@ -43,14 +43,14 @@ Maintain consistent character identities, realistic movements, seamless transiti
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/CaliraVal/status/2105895582275657852) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2105895582275657852&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/CaliraVal/status/2105895582275657852) · [↑ Top](#top)
 
 ---
 
 <a id="p-2099447346061087216"></a>
 ### Salted Caramel Donut Commercial Storyboard
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2099447273969356800/img/zq-f6DxCG5CKaggb.jpg?format=webp&name=small" height="300" alt="Salted Caramel Donut Commercial Storyboard — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2099447346061087216&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2099447273969356800/img/zq-f6DxCG5CKaggb.jpg?format=webp&name=small" height="300" alt="Salted Caramel Donut Commercial Storyboard — MiniMax H3"></a>
 
 A 3:4 gourmet dessert advert is laid out as a single-page storyboard of 8 product-focused scenes with the donut kept as the hero.
 
@@ -117,14 +117,14 @@ Ultra-realistic gourmet dessert commercial, detailed golden dough texture, gloss
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/itxsarmadd/status/2099447346061087216) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2099447346061087216&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/itxsarmadd/status/2099447346061087216) · [↑ Top](#top)
 
 ---
 
 <a id="p-2097647954354160120"></a>
 ### Chocolate Sandwich Cookie Blockbuster Macro Ad
 
-<a href="https://makernice.com/models/minimax-h3-max/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2097647901203972096/img/eGYKD0MFOhRVEH6e.jpg?format=webp&name=small" height="300" alt="Chocolate Sandwich Cookie Blockbuster Macro Ad — MiniMax H3 Max"></a>
+<a href="https://makernice.com/models/minimax-h3-max/?prompt=2097647954354160120&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2097647901203972096/img/eGYKD0MFOhRVEH6e.jpg?format=webp&name=small" height="300" alt="Chocolate Sandwich Cookie Blockbuster Macro Ad — MiniMax H3 Max"></a>
 
 A 15-second 3:4 vertical cookie commercial mixes action-movie camera moves with extreme macro slow-motion, split into named moments like the twist.
 
@@ -159,14 +159,14 @@ TENSION: Macro split-screen tension; hands holding the OREO cookie from both sid
 
 </details>
 
-**[▶ Run MiniMax H3 Max on Makernice](https://makernice.com/models/minimax-h3-max/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/itxabdullaa/status/2097647954354160120) · [↑ Top](#top)
+**[▶ Run MiniMax H3 Max on Makernice](https://makernice.com/models/minimax-h3-max/?prompt=2097647954354160120&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/itxabdullaa/status/2097647954354160120) · [↑ Top](#top)
 
 ---
 
 <a id="p-2097307424638333063"></a>
 ### Mango Mochi Commercial Storyboard in 8 Scenes
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2097305284498862080/img/_belkFW1OgDKn3gD.jpg?format=webp&name=small" height="300" alt="Mango Mochi Commercial Storyboard in 8 Scenes — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2097307424638333063&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2097305284498862080/img/_belkFW1OgDKn3gD.jpg?format=webp&name=small" height="300" alt="Mango Mochi Commercial Storyboard in 8 Scenes — MiniMax H3"></a>
 
 A 3:4 premium dessert ad is planned as a single-page storyboard of 8 product-focused scenes, with header and format blocks that keep the mochi as the hero.
 
@@ -288,14 +288,14 @@ IMPORTANT: Keep the mango mochi and packaging consistent and recognizable across
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/itxabdullaa/status/2097307424638333063) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2097307424638333063&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/itxabdullaa/status/2097307424638333063) · [↑ Top](#top)
 
 ---
 
 <a id="p-2096555195618689457"></a>
 ### Strawberry Cheesecake Ice Cream Ad Storyboard
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2096555124483313664/img/MMiT6EqaCe6CFkcV.jpg?format=webp&name=small" height="300" alt="Strawberry Cheesecake Ice Cream Ad Storyboard — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2096555195618689457&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2096555124483313664/img/MMiT6EqaCe6CFkcV.jpg?format=webp&name=small" height="300" alt="Strawberry Cheesecake Ice Cream Ad Storyboard — MiniMax H3"></a>
 
 A single-page 3:4 premium storyboard for a frozen dessert commercial, laid out as eight different panels with a title and format list.
 
@@ -362,14 +362,14 @@ Ultra-realistic premium frozen dessert commercial, rich creamy ice cream texture
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/itxabdullaa/status/2096555195618689457) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2096555195618689457&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/itxabdullaa/status/2096555195618689457) · [↑ Top](#top)
 
 ---
 
 <a id="p-2094279178602283013"></a>
 ### Portrait Burger Commercial From Macro Bun
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2094278802457124864/img/mZNzZnzYJhMtslYf.jpg?format=webp&name=small" height="300" alt="Portrait Burger Commercial From Macro Bun — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2094279178602283013&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2094278802457124864/img/mZNzZnzYJhMtslYf.jpg?format=webp&name=small" height="300" alt="Portrait Burger Commercial From Macro Bun — MiniMax H3"></a>
 
 A premium vertical burger ad opening on a macro shot of a toasted bun, written so the food can be swapped for any other dish.
 
@@ -388,7 +388,7 @@ Create a high-end cinematic burger commercial in portrait format, designed like 
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/aimikoda/status/2094279178602283013) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2094279178602283013&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/aimikoda/status/2094279178602283013) · [↑ Top](#top)
 
 ---
 
@@ -567,7 +567,7 @@ Quality: Photorealistic, cinematic, high detail
 <a id="p-2087042771257540945"></a>
 ### Silver Earbuds Ad Through a Shopping Street at Night
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2087042687828672512/img/NGzZT9eqSXejEGLI.jpg?format=webp&name=small" height="300" alt="Silver Earbuds Ad Through a Shopping Street at Night — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2087042771257540945&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2087042687828672512/img/NGzZT9eqSXejEGLI.jpg?format=webp&name=small" height="300" alt="Silver Earbuds Ad Through a Shopping Street at Night — MiniMax H3"></a>
 
 A 15-second product ad opening on the earbuds and case, then following a stylish woman through a lit shopping street and ending on a clean hero shot.
 
@@ -586,7 +586,7 @@ Create a premium 15-second cinematic ad for Audionic Trance Airbud 850. Start wi
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/ayzalnooor24521/status/2087042771257540945) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2087042771257540945&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/ayzalnooor24521/status/2087042771257540945) · [↑ Top](#top)
 
 ---
 
@@ -669,7 +669,7 @@ Do not add subtitles, captions, credits, watermarks, panel numbers, section labe
 <a id="p-2085595583927185447"></a>
 ### Neon City Street Music Commercial With Kinetic Typography
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2085595506991087616/img/YTPhCXrujtlfBohU.jpg?format=webp&name=small" height="300" alt="Neon City Street Music Commercial With Kinetic Typography — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2085595583927185447&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2085595506991087616/img/YTPhCXrujtlfBohU.jpg?format=webp&name=small" height="300" alt="Neon City Street Music Commercial With Kinetic Typography — MiniMax H3"></a>
 
 A music-style commercial with a female artist and two dancers walking a night street, written as timecoded scenes with typography synced to the beat.
 
@@ -713,7 +713,7 @@ Visual Style: Premium commercial production, Billboard music video aesthetic, lu
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/Inshrah_ali_/status/2085595583927185447) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2085595583927185447&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/Inshrah_ali_/status/2085595583927185447) · [↑ Top](#top)
 
 ---
 
@@ -786,7 +786,7 @@ Authentic creator-style content, natural facial expressions, healthy glowing ski
 <a id="p-2083301476206588086"></a>
 ### Fashion Film With a Dancer and a Horse in a Blue Studio
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg?format=webp&name=small" height="300" alt="Fashion Film With a Dancer and a Horse in a Blue Studio — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2083301476206588086&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg?format=webp&name=small" height="300" alt="Fashion Film With a Dancer and a Horse in a Blue Studio — MiniMax H3"></a>
 
 A surreal 15-second film in a monochrome blue studio using three reference images for a man, a woman and a horse, with an elegant dance.
 
@@ -809,14 +809,14 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/egeberkina/status/2083301476206588086) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2083301476206588086&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/egeberkina/status/2083301476206588086) · [↑ Top](#top)
 
 ---
 
 <a id="p-2083043197937209852"></a>
 ### Beauty Routine Vlog With a Lip Tint
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2083043141054054400/img/4Flo2VbuRU6HadtD.jpg?format=webp&name=small" height="300" alt="Beauty Routine Vlog With a Lip Tint — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2083043197937209852&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2083043141054054400/img/4Flo2VbuRU6HadtD.jpg?format=webp&name=small" height="300" alt="Beauty Routine Vlog With a Lip Tint — MiniMax H3"></a>
 
 A camcorder-style vlog of a young woman picking up a fictional lip tint in a mall beauty store, with spoken lines and mirror shots.
 
@@ -835,14 +835,14 @@ DV 16mm camcorder vlog with soft VHS tape quality, handheld POV by CHASE and mir
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/saniaspeaks_/status/2083043197937209852) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2083043197937209852&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/saniaspeaks_/status/2083043197937209852) · [↑ Top](#top)
 
 ---
 
 <a id="p-2082783319075291312"></a>
 ### Premium Wireless Headphones Product Showcase
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg?format=webp&name=small" height="300" alt="Premium Wireless Headphones Product Showcase — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2082783319075291312&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg?format=webp&name=small" height="300" alt="Premium Wireless Headphones Product Showcase — MiniMax H3"></a>
 
 A 15-second luxury product showcase with timed shots, starting from macro tracking across cushions, fabric and brushed-metal controls.
 
@@ -869,7 +869,7 @@ Create a 15-second luxury cinematic product showcase for premium wireless over-e
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/LudovicCreator/status/2082783319075291312) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2082783319075291312&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/LudovicCreator/status/2082783319075291312) · [↑ Top](#top)
 
 ---
 
@@ -917,7 +917,7 @@ Create a polished 15-second luxury e-commerce fashion video.
 <a id="p-2082667261718872509"></a>
 ### Luxury Emerald Necklace Commercial Storyboard
 
-<a href="https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts"><img src="https://pbs.twimg.com/amplify_video_thumb/2082667162238439424/img/QgRHvmJ3RLfeocrW.jpg?format=webp&name=small" height="300" alt="Luxury Emerald Necklace Commercial Storyboard — MiniMax H3"></a>
+<a href="https://makernice.com/models/minimax-h3/?prompt=2082667261718872509&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2082667162238439424/img/QgRHvmJ3RLfeocrW.jpg?format=webp&name=small" height="300" alt="Luxury Emerald Necklace Commercial Storyboard — MiniMax H3"></a>
 
 A single-page storyboard prompt for a luxury jewelry commercial, moving from macro gemstone shots to fashion editorial frames.
 
@@ -969,6 +969,6 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 
 </details>
 
-**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts)** · [Original post](https://x.com/itxabdullaa/status/2082667261718872509) · [↑ Top](#top)
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2082667261718872509&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/itxabdullaa/status/2082667261718872509) · [↑ Top](#top)
 
 ---
