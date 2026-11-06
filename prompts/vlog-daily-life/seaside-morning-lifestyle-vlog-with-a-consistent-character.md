@@ -1,0 +1,82 @@
+<a id="top"></a>
+# Seaside Morning Lifestyle Vlog With a Consistent Character
+
+[← All Vlog & Daily Life prompts](../vlog-daily-life.md#user-content-p-2086671141998059973) · [README](../../README.md)
+
+<a id="p-2086671141998059973"></a>
+### Seaside Morning Lifestyle Vlog With a Consistent Character
+
+<a href="https://makernice.com/models/minimax-h3/?prompt=2086671141998059973&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground"><img src="https://pbs.twimg.com/amplify_video_thumb/2086670800896266240/img/4IImBjQW816qaJPZ.jpg?format=webp&name=small" height="300" alt="Seaside Morning Lifestyle Vlog With a Consistent Character — MiniMax H3"></a>
+
+A vertical 15-second vlog of one young woman at the sea, with her face, hair and outfit locked across every shot.
+
+`Vlog & Daily Life` `15 s` `4:3` `Transitions & effects`
+
+**MiniMax H3** · prompt by [@ayzalnooor24521](https://x.com/ayzalnooor24521/status/2086671141998059973) · 2026-08-10 · ♥ 188
+
+**Rerun cost** for 15 s: 480p $0.90 · 768p $1.08 · 2K $2.34 · 4K $2.88 (price list v12)
+
+<details>
+<summary><b>Prompt</b> (3,349 characters)</summary>
+
+```text
+Create a 15-second ultra-realistic cinematic lifestyle vlog video, vertical 9:16, featuring the same young woman throughout the entire video. Preserve her facial identity, facial proportions, hairstyle, skin tone and overall appearance consistently in every shot. She wears the same outfit throughout: fitted white V-neck T-shirt with a small subtle logo, blue denim jeans, natural makeup, long softly wavy brown hair.
+
+0:00–0:01 — Wake-up:
+Close-up inside a beautiful bright bedroom. The woman is lying comfortably on the bed, slowly wakes up, stretches naturally and opens her eyes. She is NOT filming a vlog yet and does not hold a phone or camera. Soft morning sunlight enters through the curtains.
+
+0:01–0:02 — Gets up:
+Medium shot. She sits up on the bed, smiles softly, fixes her hair and gets ready to start her morning. Natural, effortless movement.
+
+0:02–0:03 — Walks to window:
+She walks toward the large glass balcony door/window. Camera follows her naturally from behind/side.
+
+0:03–0:04 — Seaside reveal:
+She opens the curtains/door and looks outside. Reveal a breathtaking blue ocean, coastal hills, flowers, balcony and beautiful morning sunlight. She smiles happily while taking in the view.
+
+0:04–0:05 — Steps outside:
+She walks out onto the seaside terrace. Gentle ocean breeze moves her hair naturally. Wide cinematic shot showing the beautiful surroundings.
+
+0:05–0:06 — VLOG START:
+Only now she starts filming herself in handheld selfie-vlog style. She looks into the camera with a bright natural smile and says:
+“Good morning!”
+
+0:06–0:07 — Show the view:
+She turns the camera away from herself and slowly pans across the stunning ocean, coastal mountains, flowers and terrace. Smooth handheld vlog movement.
+
+0:07–0:08 — Back to selfie:
+Selfie shot. She looks into the camera and happily says:
+“This place is just perfect!”
+
+0:08–0:09 — Location reveal:
+Wide cinematic shot of the cozy seaside terrace with wooden table, chairs, plants and flowers overlooking the ocean.
+
+0:09–0:10 — Walk to table:
+Medium tracking shot as she walks toward the table, enjoying the view. Her hair and T-shirt move gently in the sea breeze.
+
+0:10–0:11 — Sit and relax:
+She sits at the seaside table, smiling peacefully and enjoying the ocean view. A refreshing orange-colored juice is placed on the table.
+
+0:11–0:12 — Juice close-up:
+Cinematic close-up of her hand picking up the glass of fresh orange juice. Beautiful ocean bokeh in the background, natural sunlight reflecting through the glass.
+
+0:12–0:13 — Vlog toast:
+Selfie shot. She raises the juice toward the camera with a cheerful smile and says:
+“Cheers to good days!”
+
+0:13–0:14 — Happy close-up:
+Beautiful close-up of her smiling naturally at the camera, ocean and warm sunlight softly blurred behind her.
+
+0:14–0:15 — Ending:
+Camera moves from her toward the sparkling ocean and peaceful coastal landscape. Warm sunlight, gentle waves and a relaxing cinematic ending.
+
+Overall Style
+
+Ultra-realistic, cinematic travel vlog, natural handheld camera movement, realistic human motion, smooth transitions, soft morning sunlight, realistic ocean waves, gentle wind in hair and clothes, beautiful coastal atmosphere, premium lifestyle aesthetic, natural expressions, authentic vlog feeling, shallow depth of field, cinematic composition, realistic skin texture, high detail, 4K quality.
+```
+
+</details>
+
+**[▶ Run MiniMax H3 on Makernice](https://makernice.com/models/minimax-h3/?prompt=2086671141998059973&utm_source=github&utm_medium=prompts-repo&utm_campaign=awesome-minimax-h3-prompts#playground)** · [Original post](https://x.com/ayzalnooor24521/status/2086671141998059973) · [↑ Top](#top)
+
+---
